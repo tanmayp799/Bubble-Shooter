@@ -1,0 +1,9 @@
+gravity done.///////
+
+collision check.
+	a. bullets and bubbles.
+	b. bubbles and shooter.
+levels.
+ball splitting.
+health.
+points.
